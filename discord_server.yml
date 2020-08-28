@@ -1,6 +1,15 @@
 # This file can apply to any community servers/channels
 panda-bot:
   discord:
+    public_invite: https://discord.gg/Hs57Jg4
+    ### Do not set these if private server, otherwise will be used for searching
+    # Select server type, valid options: project, community, trading. Contact us to add new categories
+    type: project
+    # Set if server allows rains for promotion
+    allow_rain: True
+    # Set short description of server
+    description: Welcome all Crypto enthusiasts!
+    ### Ignore up to here if private server
     # Default currency ticker to use, set to False to allow multiple currencies
     default_currency: False
     # List of allowed currency tickers. Set default_currency to False and delete this section to use all available currencies

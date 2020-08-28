@@ -1,8 +1,8 @@
 # This file can apply to any community servers/channels
 panda-bot:
   discord:
-    public_invite: https://discord.gg/Hs57Jg4
     ### Do not set these if private server, otherwise will be used for searching
+    public_invite: https://discord.gg/Hs57Jg4
     # Select server type, valid options: project, community, trading. Contact us to add new categories
     type: project
     # Set if server allows rains for promotion

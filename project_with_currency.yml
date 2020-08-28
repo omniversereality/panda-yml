@@ -1,0 +1,57 @@
+# This section should be mostly links to the various project resources
+meta:
+  # Full project name, this must be the registered name with panda-bot platform (can not change!)
+  name: Fat Panda Club
+  # Project website
+  website: https://pandabot.fatpanda.club
+  # Discord invite
+  discord: https://discord.gg/Hs57Jg4
+  # Bitcointalk topics
+  bitcointalk: https://bitcointalk.org/index.php?topic=5103411
+  # Twitter account
+  twitter: https://twitter.com/fatpandabot
+  # Facebook account
+  facebook: https://facebook.com
+  # Some other social media account
+  social: https://some.other.social/media/account
+  # List of Blockchain explorer
+  explorer: 
+    - https://explorer.fatpanda.club
+    - https://explorer2.fatpanda.club
+  # List of exchanges
+  exchange:
+    - https://crex24.com/exchange/BOO-BTC
+  # List of pools
+  pool:
+    - https://pools.fatpanda.club
+  some_other_info: short info
+  # You can put some project info in, however best to keep it relatively short
+blockchain:
+  # Link to icon of project preferrably around 100x100px PNG format
+  icon: https://pandabot.fatpanda.club/img/icon.png
+  # Chain info, standalone/ethereum/tron
+  chain: standalone
+  # Token starndard if applicable
+  standard: ERC20
+  # Codebase of blockchain 
+  codebase: pivx3.1
+  # Algorithm of blockchain 
+  algo: Quark
+  # Consensus method
+  consensus: PoS
+  # Maturity
+  maturity: 20 blocks
+  # Integrate a node maintained by the team for additional info. Configure by messaging panda-bot `$infonode`
+  # You must be the admin of the project
+  # Set to False to disable
+  info_node: True
+  # Integrate a live daemon for tipping, provide a mobile wallet via the platforms we support. Configure by messaging panda-bot `$tipnode`
+  # You must be the admin of the project
+  # This can be the same daemon as info_node should you choose
+  # Set to False to disable
+  tip_node: True
+  ### Below are mandatory if tip_node is enabled, otherwise ignored
+  # The wallet will need to cover withdrawal fee and also clean up fees
+  # Default is 0.01, this should be set high enough to cover network fee and low enough to not impact value
+  # Project team will need to make up the difference if this is set too low
+  withdraw_fee: 0.01

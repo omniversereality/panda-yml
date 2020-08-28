@@ -22,6 +22,8 @@ Any Discord server admin can run $serveradmin to configure how panda-bot works i
 
 As of now you can set the channels which you'd like panda-bot to work in as well as the currency/currencies allowed in the server, you can also set welcome messages and ticker channels
 
+You can indicate whether this is a public server by setting a public invite and set a number of metrics to ensure your server can be shown up in the correct search results
+
 ## Support
 
 If you'd like some help on how to write your panda.yml please [contact us via Discord](https://discord.gg/Hs57Jg4) and let us know

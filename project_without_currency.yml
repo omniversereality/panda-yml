@@ -1,0 +1,28 @@
+# This file should be mostly links to the various project resources
+meta:
+  # Full project name, this must be the registered name with panda-bot platform (can not change!)
+  name: Fat Panda Club
+  # Project website
+  website: https://pandabot.fatpanda.club
+  # Discord invite
+  discord: https://discord.gg/Hs57Jg4
+  # Bitcointalk topics
+  bitcointalk: https://bitcointalk.org/index.php?topic=5103411
+  # Twitter account
+  twitter: https://twitter.com/fatpandabot
+  # Facebook account
+  facebook: https://facebook.com
+  # Some other social media account
+  social: https://some.other.social/media/account
+  # List of Blockchain explorer
+  explorer: 
+    - https://explorer.fatpanda.club
+    - https://explorer2.fatpanda.club
+  # List of exchanges
+  exchange:
+    - https://crex24.com/exchange/BOO-BTC
+  # List of pools
+  pool:
+    - https://pools.fatpanda.club
+  some_other_info: short info
+  # You can put some project info in, however best to keep it relatively short

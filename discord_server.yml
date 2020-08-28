@@ -1,0 +1,21 @@
+# This file can apply to any community servers/channels
+panda-bot:
+  discord:
+    # Default currency ticker to use, set to False to allow multiple currencies
+    default_currency: False
+    # List of allowed currency tickers. Set default_currency to False and delete this section to use all available currencies
+    ## This is ignored if default_currency is set
+    allowed_currency:
+      - boo
+      - eth
+    # List of the channels for panda-bot to respond to, by default will respond to all
+    allowed_channels:
+      - 446869315954802699
+      - 541918786920382465
+    # Have panda-bot post blockchain stats and currency pricing to channel at 15 minute intervals
+    ticker_channel: 541367967133335552
+    # Allow other bots to use panda-bot?
+    allow_bots: False
+
+  #telegram: # WIP
+  #slack: # WIP

@@ -29,8 +29,6 @@ meta:
   some_other_info: short info
   # You can put some project info in, however best to keep it relatively short
 blockchain:
-  # Link to icon of project preferrably around 100x100px PNG format
-  icon: https://pandabot.fatpanda.club/img/icon.png
   # Chain info, standalone/ethereum/tron
   chain: standalone
   # Token starndard if applicable

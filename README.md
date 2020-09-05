@@ -4,6 +4,8 @@ This repo contains the yml config files to be used in $projectadmin and $servera
 
 ## $projectadmin
 
+This command allows you to set up your project with the correct meta data so it can come up in the relevant searches.
+
 We currently support projects with and without their own currency, you will have the choice when you run $register
 
 Once a project is registered, the Admin can set corresponding information with $projectadmin
@@ -15,6 +17,8 @@ The blockchain section should give a summary of the chain specs, content is used
 All details are displayed when the $info command is run
 
 ## $serveradmin
+
+This command allows you to customize how panda-bot works on your server
 
 Currently Discord is supported
 

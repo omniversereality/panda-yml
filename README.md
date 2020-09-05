@@ -1,6 +1,6 @@
 # panda.yml
 
-This repo contains the yml config files to be used in $projectadmin and $serveradmin
+This repo contains the yml config files to be used in $projectadmin and $serveradmin, please read through each of them to determine what you need to do
 
 ## $projectadmin
 

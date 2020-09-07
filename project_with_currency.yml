@@ -16,6 +16,7 @@ meta:
   facebook: https://facebook.com
   # Some other social media account
   social: https://some.other.social/media/account
+  ## Please limit each of the lists to 3-4 maximum, Discord messages can only hold so many characters!
   # List of Blockchain explorer
   explorer: 
     - https://explorer.fatpanda.club

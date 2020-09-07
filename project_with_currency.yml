@@ -2,7 +2,7 @@
 meta:
   # Full project name, this must be the registered name with panda-bot platform (can not change!)
   name: Fat Panda Club
-  # Hot link to icon of project preferrably around 100x100px PNG format, not imgur
+  # Hot link to icon of project preferrably around 100x100px PNG format, if you are using imgur please add with file suffix, ie .png
   icon: https://pandabot.fatpanda.club/img/icon.png
   # Project website
   website: https://pandabot.fatpanda.club

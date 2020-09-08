@@ -21,8 +21,6 @@ panda-bot:
     allowed_channels:
       - 446869315954802699
       - 541918786920382465
-    # Have panda-bot post blockchain stats and currency pricing to channel at 15 minute intervals
-    ticker_channel: 541367967133335552
     # Allow other bots to use panda-bot?
     allow_bots: False
 

@@ -5,7 +5,7 @@ panda-bot:
     public_invite: https://discord.gg/Hs57Jg4
     # Select server type, valid options: project, community, trading. Contact us to add new categories
     type: project
-    # Set if server allows rains for promotion
+    # Set if server allows rains for promotion of any panda-bot listed currency
     allow_rain: True
     # Set short description of server
     description: Welcome all Crypto enthusiasts!

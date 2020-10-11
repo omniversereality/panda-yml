@@ -1,4 +1,5 @@
 # This file can apply to any community servers/channels
+# Make a copy and manage your server by uploading with the command $serveradmin
 panda-bot:
   discord:
     ### Do not set these if private server, otherwise will be used for searching

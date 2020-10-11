@@ -1,4 +1,5 @@
 # This section should be mostly links to the various project resources
+# Make a copy and upload to panda-bot via $projectadmin
 meta:
   # Full project name, this must be the registered name with panda-bot platform (can not change!)
   name: Fat Panda Club

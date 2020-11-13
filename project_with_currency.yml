@@ -2,29 +2,34 @@
 # Make a copy and upload to panda-bot via $projectadmin
 meta:
   # Full project name, this must be the registered name with panda-bot platform (can not change!)
-  name: Fat Panda Club
+  name: genesisx
   # Hot link to icon of project preferrably around 100x100px PNG format, not imgur or any service using redirects
-  icon: https://pandabot.fatpanda.club/img/icon.png
+  icon: https://genesisx.network/wp-content/uploads/2020/07/Logopit_1593725941601.png
   # Project website
-  website: https://pandabot.fatpanda.club
+  website: https://genesisx.network
   # Discord invite
-  discord: https://discord.gg/Hs57Jg4
+  discord: https://discord.gg/YBKrKzU5fc
   # Bitcointalk topics
-  bitcointalk: https://bitcointalk.org/index.php?topic=5103411
+  bitcointalk: https://bitcointalk.org/index.php?topic=4408230.new#new
   # Twitter account
-  twitter: https://twitter.com/fatpandabot
+  twitter: https://twitter.com/GenesisX_XGS
   # Facebook account
-  facebook: https://facebook.com
+  facebook: https://www.facebook.com/XGSGenesisX/
   # Some other social media account
-  social: https://some.other.social/media/account
+  telegram: https://t.me/genesisxproject
+  medium: https://medium.com/@genesisxofficial
+  reddit: https://www.reddit.com/r/Genesisxofficial/
+  instagram: https://www.instagram.com/genesisxofficial/
   ## Please limit each of the lists to 3-4 maximum, Discord messages can only hold so many characters!
   # List of Blockchain explorer
   explorer: 
-    - https://explorer.fatpanda.club
-    - https://explorer2.fatpanda.club
+    - http://xgs.ccore.online/
+    - https://chains.trittium.cc/XGS/blocks
   # List of exchanges
-  exchange:
-    - https://crex24.com/exchange/BOO-BTC
+  exchanges:
+    - https://tradeogre.com/exchange/BTC-XGS
+    - https://trade.birake.com/market/BIRAKE.XGS_BIRAKE.BTC
+    -https://www.finexbox.com/market/pair/XGS-BTC.html
   # List of pools
   pool:
     - https://pools.fatpanda.club
@@ -33,16 +38,14 @@ meta:
 blockchain:
   # Chain info, standalone/ethereum/tron
   chain: standalone
-  # Token starndard if applicable
-  standard: ERC20
   # Codebase of blockchain 
   codebase: pivx3.1
   # Algorithm of blockchain 
-  algo: Quark
+  algo: Xevan
   # Consensus method
   consensus: PoS
   # Maturity
-  maturity: 20 blocks
+  maturity: 18 blocks
   # Integrate a node maintained by the team for additional info. Configure by messaging panda-bot `$infonode`
   # You must be the admin of the project
   # Set to False to disable
